@@ -15,6 +15,7 @@ div {
 }
 
 h2 {
+    display: flex;
     font-size: 60px;
     background: #eee;
     padding: 8px 24px;
@@ -29,6 +30,9 @@ div:nth-child(1){
 
 div:nth-child(2){
     background-color: navy;
+    /*background-image: url('3.jpg');
+    background-position: center;
+    background-size: cover;*/
 }
 
 div:nth-child(3){
